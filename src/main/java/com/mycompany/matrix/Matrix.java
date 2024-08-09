@@ -10,7 +10,7 @@ public class Matrix {
         obj.setKilometer(20.0);
         
         
-        System.out.print(obj.toString()+" Km\n");
+        System.out.print(obj.toString()+" Km");
         System.out.print("= "+obj.getMile()+" Miles");
        
     }
